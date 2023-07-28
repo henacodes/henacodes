@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henacodes" alt="henacodes" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Svelte Kit**
 
 - 📝 I regularly write articles on [https://t.me/gebeta_tech](https://t.me/gebeta_tech)
 
