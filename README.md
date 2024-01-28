@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henok</h1>
 <h3 align="center">An enthusiastic web developer from Ethiopia, Africa!!</h3>
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
+<img src="https://i.ibb.co/VpZJDJ0/code.gif"  />
 <p align="center" align="left"> <img src="https://komarev.com/ghpvc/?username=henacodes&label=Profile%20views&color=0e75b6&style=flat" alt="henacodes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henacodes" alt="henacodes" /></a> </p>
