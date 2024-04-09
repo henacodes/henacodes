@@ -11,7 +11,6 @@
 - ⚡ Fun fact **I love philosophy**
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henacodes&show_icons=true&locale=en&layout=compact" alt="henacodes" /></p>
 
-
-![](https://raw.githubusercontent.com/henacodes/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/henacodes/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henacodes&show_icons=true&locale=en" alt="henacodes" /></p>
