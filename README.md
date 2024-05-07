@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henok</h1>
-<h3 align="center">I love learning while coding </h3>
+<h3 align="center">always learning  </h3>
 
 - 🌱 I’m currently learning **Svelte Kit**
 
