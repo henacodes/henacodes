@@ -10,7 +10,6 @@
 
 - ⚡ Fun fact **I love philosophy**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henacodes&show_icons=true&locale=en&layout=compact&theme=dark" alt="henacodes" /></p>
+<p><img align="left" src="https://github-readme-stats-five-mu-66.vercel.app/api/top-langs?username=henacodes&show_icons=true&locale=en&layout=compact&theme=dark&count-private=true" alt="henacodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henacodes&show_icons=true&locale=en&theme=dark" alt="henacodes" /></p>
