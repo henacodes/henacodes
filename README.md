@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Svelte Kit**
 
-- 📝 I regularly write articles on [https://t.me/gebeta_tech](https://t.me/gebeta_tech)
+- 📝 I regularly write articles on [The Wandering Soul](https://t.me/the_wandering_dude)
 
 - 📫 How to reach me **henacodes@gmail.com**
 
