@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **henacodes@gmail.com**
 
-[![wakatime](https://wakatime.com/badge/user/1e49686c-71bf-4420-8cf3-154c98066448.svg)](https://wakatime.com/@1e49686c-71bf-4420-8cf3-154c98066448)
+[![wakatime](https://wakatime.com/badge/user/1e49686c-71bf-4420-8cf3-154c98066448.svg)](https://wakatime.com/@1e49686c-71bf-4420-8cf3-154c98066448) (since 2023)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henacodes&show_icons=true&locale=en&layout=compact&theme=dark&count-private=true" alt="henacodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henacodes&show_icons=true&locale=en&theme=dark" alt="henacodes" /></p>
