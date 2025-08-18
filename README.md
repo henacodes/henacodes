@@ -11,3 +11,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henacodes&show_icons=true&locale=en&layout=compact&theme=dark&count-private=true" alt="henacodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henacodes&show_icons=true&locale=en&theme=dark" alt="henacodes" /></p>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,svelte,nextjs,react,nodejs,prisma,firebase,blender,)](https://skillicons.dev)
