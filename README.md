@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henacodes&show_icons=true&locale=en&theme=dark" alt="henacodes" /></p>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,svelte,nextjs,react,nodejs,supabse,prisma,firebase,blender,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,svelte,nextjs,react,nodejs,supabase,prisma,firebase,blender,)](https://skillicons.dev)
